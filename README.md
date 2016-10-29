@@ -7,4 +7,4 @@ A redesigned version of the Tapuinomini with built in buttons and connector on t
 A step by step build process can be found on my blog:
 http://arananet-net.kinja.com/tapuino-1-03-mejorando-el-tapuino-mini-1788202676
 
-2016 - By @edu_arana
+2016 -@edu_arana
